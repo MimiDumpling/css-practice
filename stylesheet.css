@@ -1,0 +1,14 @@
+h1 {
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+div{
+    margin: 0;
+    height: 350px;
+    width: 240px;
+    background-color: red;
+}
+
+body{
+    margin: 0;
+}
