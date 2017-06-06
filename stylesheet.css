@@ -1,12 +1,21 @@
-h1 {
-    font-family: "Source Sans Pro", sans-serif;
+#flag-top {
+
+    background-color: black;
 }
 
-div{
-    margin: 0;
-    height: 350px;
-    width: 240px;
+#flag-middle {
+
     background-color: red;
+}
+
+#flag-bottom {
+
+    background-color: #ffd700;
+}
+
+.stripe {
+    height: 100px;
+    width: 500px;
 }
 
 body{
